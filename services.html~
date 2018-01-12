@@ -1,0 +1,82 @@
+!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Web Statis</title>
+<link rel="stylesheet" href="css/webstatis.css"/>
+<link rel="stylesheet" href="css/menu.css"/>
+<link rel="shortcut icon" href="gambar/ll.png"/>
+</head>
+<body>
+  <div id="semua">
+	<header class="web" id="judul">
+		<img src="gambar/ll.png" alt="logo" title="Logo TKJ" id="logo"/>
+		<h1>Raiman Asia Tech</h1>
+		<h2>Advance Your Innovation</h2>
+	</header>
+	
+<nav class="web" id='cssmenu'>
+<ul>
+			<li><a href="index.html" >HOME</a></li>	
+			<li><a href="services.html" >SERVICES</a></li>		
+			<li><a href="#" >ABOUT RAT</a>
+				<ul>
+					<li><a href="bor.html" >BACKGROUND OF RAT</a></li>
+					<li><a href="cc.html" >CORPORATE CULTURE</a></li>
+				
+				</ul>
+			</li>
+				
+			<li><a href="#" >VIDEO</a>
+				<ul>
+					<li><a href="ri.html">RAT INNOVATION</a></li>
+					<li><a href="ror.html">RAT OFFICE ROOM</a></li>
+				</ul>
+			</li>
+			<li><a href="hubungi.html" >CONTACT</a></li>
+		</ul>
+	</nav>
+	
+	<section class="web" id="utama">
+		<section id="konten">
+			<article>
+				<h2>Our Service</h2><br/>
+				<p>
+					<img src="gambar/ou.jpg" width="450px"/>
+					<br/>
+					<br/>
+	<p>			Our Service <br/>
+
+The methodology, qualified personnel and experience are the three main fundamentals we rely on.</p>
+	
+
+
+				</p>
+				
+					
+			</article>
+		</section>
+		<aside id="samping">
+			<br/>
+			<h3>Profile Development</h3><br/>
+	<iframe width="197" height="150" src="https://www.youtube.com/embed/V0s2S0px6qo" frameborder="0" allowfullscreen></iframe>
+			<br/>
+			<br/>
+			<h3>Owners</h3><br/>
+			<img src="gambar/me.jpg" title="Taslima Raiman" width="197">
+			<br/>
+			<br/>
+			<h3>Web Lain</h3>
+			<ul>
+				<li><a href="http://taslimaraiman.wordpress.com" target="_blank" title="Talima Raiman">Raiman Inc</a></li>
+			</ul>			
+		</aside>
+	</section>
+	<footer class="web">
+All right reserved
+<br/>by <a href="http://taslimaraiman.wordpress.com" target="_blank">Raiman Inc</a>
+<br/>&copy; 2017
+	</footer>
+  </div>
+</body>
+</html>
