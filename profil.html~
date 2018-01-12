@@ -1,0 +1,117 @@
+!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Web Statis</title>
+<link rel="stylesheet" href="css/webstatis.css"/>
+<link rel="stylesheet" href="css/menu.css"/>
+<link rel="shortcut icon" href="gambar/ll.png"/>
+</head>
+<body>
+  <div id="semua">
+	<header class="web" id="judul">
+		<img src="gambar/ll.png" alt="logo" title="Logo TKJ" id="logo"/>
+		<h1>Raiman Asia Tech</h1>
+		<h2>Advance Your Innovation</h2>
+	</header>
+	
+	<nav class="web" id='cssmenu'>
+<ul>
+			<li><a href="index.html"><b>BERANDA</b></a>
+				<ul>	
+				</ul>	
+		</li>	
+		<li><a href="#.html" ><b>PROFIL</b></a>
+				<ul>
+					<li><a href="ik.html">Profil Sekolah</a></li>	
+					<li><a href="ek.html">Visi dan Misi</a></li>	
+					<li><a href="ek.html">Struktur Organisasi</a></li>
+					<li><a href="ek.html">Fasilitas Sekolah</a></li>
+					<li><a href="ps.html">Sejarah</a></li>
+				</ul>
+		</li>
+		<li><a href="#.html" ><b>AKADEMIK</b></a>
+				<ul>
+					<li><a href="kk.html">Kurikulum</a></li>
+				</ul>
+		</li>
+		<li><a href="#".html" ><b>DATA SEKOLAH</b></a>
+			<ul>
+				<li><a href="dg.html">Artikel Sekolah</a></li>
+				<li><a href="OA.html">Orang Tua Asuh</a></li>
+				<li><a href="gd.html">Gedung</a></li>
+				<li><a href="ds.html">Fasilitas Olahraga</a></li>
+				<li><a href="ps.html">Prestasi Siswa</a></li>
+			</ul>
+		</li>
+		<li><a href="#" ><b>KESISWAAN</b></a>
+				<ul>
+					<li><a href="ek.html">Ekstrakulikuler</a></li>
+					<li><a href="in.html">Intrakulikuler</a></li>
+					<li><a href="pr.html">Prestasi Siswa</a></li>
+				</ul>
+		</li>
+		<li><a href="#" ><b>GALERY SEKOLAH</b></a>
+				<ul>
+				   <li> <a href="paud.html">PAUD Mawar</a></li>
+				   <li><a href="md.html" >Madrasah Diniyyah Nurul Aula</a></li>
+				   <li><a href="mts.html" >MTs Sirojul Wildan</a></li>
+				   <li><a href="ma.html" >MA Sirojul Athfal II</a></li>
+				   <li><a href="rb.html" >Rumah Baca La Lumiere</a></li>
+				</ul>
+		</li>
+				
+			<li><a href="#" ><b>ALUMNI</b></a>
+				<ul>
+					<li><a href="ama.html">MA Sirojul Athfal II</a></li>
+					<li><a href="amts.html">MTs Sirojul Wildan</a></li>
+				</ul>
+			</li>
+			<li><a href="hubungi.html" ><b>HUBUNGI</b></a></li>
+		</ul>
+	</nav>
+	
+	<section class="web" id="utama">
+		<section id="konten">
+			<article>
+				<h2>Our Service</h2><br/>
+				<p>
+					<img src="gambar/ou.jpg" width="450px"/>
+	<p>			Our Service
+
+The methodology, qualified personnel and experience are the three main fundamentals we rely on.</p>
+	
+
+
+				</p>
+				
+					
+			</article>
+		</section>
+		<aside id="samping">
+			<br/>
+			<h3>Profil RGI</h3>
+			<iframe width="197" height="180" src="https://www.youtube.com/embed/I71VCeV6EEU" frameborder="0" allowfullscreen></iframe>
+			<br/>
+			<br/>
+			<h3>Pemilik Web</h3>
+			<img src="gambar/me.jpg" title="Taslima Raiman" width="197">
+			<br/>
+			<br/>
+			<h3>Web Lain</h3>
+			<ul>
+				<li><a href="http://rumahgemilang.com" target="_blank" title="Rumah Gemilang Indonesia">RGI</a></li>
+				<li><a href="http://alazharpeduli.org" target="_blank" title="Lembaga Amil Zakat Nasional Al-Azhar">Laznas Al-Azhar</a></li>
+				<li><a href="http://al-azhar.or.id" target="_blank" title="Yayasan Pesantren Indonesia Al-Azhar">YPI Al-Azhar</a></li>
+				<li><a href="http://taslimaraiman.wordpress.com" target="_blank" title="Blog Taslima Raiman">Me</a></li>
+			</ul>			
+		</aside>
+	</section>
+	<footer class="web">
+Hak Cipta 
+<br/>by <a href="http://taslimaraiman.wordpress.com" target="_blank">Taslima Raiman</a>
+<br/>&copy; 2017
+	</footer>
+  </div>
+</body>
+</html>
